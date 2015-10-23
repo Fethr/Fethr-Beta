@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Fethr
+        psr4_prefix: Fethr
+        src_path: app
